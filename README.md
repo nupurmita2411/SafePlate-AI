@@ -27,7 +27,7 @@ https://safeplateai.netlify.app
 | AI Food Scanner | Nipa |
 | Food Safety Checker | Nipa |
 | AI Meal Planner | Nipa |
-| Healthy Habit Tracker | Nipa |
+| Healthy Habit Tracker | Nupur |
 
 ## Technology Stack
 
