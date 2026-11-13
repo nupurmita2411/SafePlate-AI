@@ -1,6 +1,6 @@
 # 🌿 SafePlate AI — Smart Food Safety & Healthy Lifestyle Assistant
 
-CSE451 (Software Engineering), IUB, Autumn 2026.
+CSE309 (Web Programming), IUB, Autumn 2026.
 
 ## Live Website
 
